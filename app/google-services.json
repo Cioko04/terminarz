@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "722452923019",
+    "project_id": "terminarz-90f03",
+    "storage_bucket": "terminarz-90f03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722452923019:android:970974ab20bd6faed88a8e",
+        "android_client_info": {
+          "package_name": "com.example.terminarzg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722452923019-nq75shthmurmjaeqc4uclj4asf6fu3t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpZW1LRgwMTiqLa1HthoabtvrsRSNyEgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722452923019-nq75shthmurmjaeqc4uclj4asf6fu3t7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
