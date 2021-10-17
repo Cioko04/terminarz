@@ -1,2 +1,2 @@
 # terminarz
-Projket stworzony na potrzeby pracy inżynierskiej.
+Projekt stworzony na potrzeby pracy inżynierskiej.
